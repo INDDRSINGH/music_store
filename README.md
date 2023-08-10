@@ -12,4 +12,4 @@ This project is to analyze the music playlist database. You can examine the data
 
 Schema- Music Store Database
 
-![MusicDatabaseSchema](https://github.com/INDDRSINGH/music_store/edit/main/EER.png)
+![MusicDatabaseSchema](https://github.com/INDDRSINGH/music_store/blob/main/EER.png)

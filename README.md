@@ -12,4 +12,4 @@ This project is to analyze the music playlist database. You can examine the data
 * PgAdmin4
 
 Schema- Music Store Database
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![MusicDatabaseSchema](https://github.com/INDDRSINGH/music_store/edit/main/EER.png)

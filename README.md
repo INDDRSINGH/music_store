@@ -8,8 +8,8 @@ This project is to analyze the music playlist database. You can examine the data
 
 
 ## Database and Tools
-* Postgre SQL
-* PgAdmin4
+* MySQL
 
 Schema- Music Store Database
+
 ![MusicDatabaseSchema](https://github.com/INDDRSINGH/music_store/edit/main/EER.png)
